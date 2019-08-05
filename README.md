@@ -3,13 +3,7 @@
 STEPS TO BUILD EST API
 
 1. Setup database environment
-a. Install DB browser for sqlite (Download from https://sqlitebrowser.org/)
-b. Create database called "code_api"
-c. Go to DB browser for sqlite => File => Import => Import Table from CSV file
-d. Choose codes_new.csv file
-e. Check Columns names in first line
-f. Select semi colon (;) as field separator
-g. Click Ok button to import
+install postgresl
 
 2. Install the following module
 a. flask
